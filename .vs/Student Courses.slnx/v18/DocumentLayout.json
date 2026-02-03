@@ -1,0 +1,37 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\uniqu\\Desktop\\Student Courses\\Project\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{FC26B53A-1547-4B09-B64B-BFA48D9A1AEF}|Student Courses\\Student Courses.vcxproj|C:\\Users\\uniqu\\Desktop\\Student Courses\\Project\\Student Courses\\student.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{FC26B53A-1547-4B09-B64B-BFA48D9A1AEF}|Student Courses\\Student Courses.vcxproj|solutionrelative:Student Courses\\student.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "student.cpp",
+              "DocumentMoniker": "C:\\Users\\uniqu\\Desktop\\Student Courses\\Project\\Student Courses\\student.cpp",
+              "RelativeDocumentMoniker": "Student Courses\\student.cpp",
+              "ToolTip": "C:\\Users\\uniqu\\Desktop\\Student Courses\\Project\\Student Courses\\student.cpp",
+              "RelativeToolTip": "Student Courses\\student.cpp",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2026-02-03T18:51:58.269Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
